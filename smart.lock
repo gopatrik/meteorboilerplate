@@ -1,0 +1,21 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "Stylus-and-Jeet": {},
+      "jade": {}
+    },
+    "packages": {
+      "Stylus-and-Jeet": {
+        "git": "https://github.com/davegonzalez/stylus-jeet.git",
+        "tag": "v0.0.3",
+        "commit": "55e43d8c7b3ac7b3c151dd9f216b6a3dc2eed8e1"
+      },
+      "jade": {
+        "git": "https://github.com/mquandalle/meteor-jade.git",
+        "tag": "v0.2.4",
+        "commit": "a47a4c59daaa57e7fe5f1544d4ea76d95a5c9abf"
+      }
+    }
+  }
+}
